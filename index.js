@@ -19,9 +19,8 @@
  */
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
- 
-    
-    
-    
-    // YOUR CODE GOES ABOVE HERE //
+ console.log(result)
+       
+    // 
 }
+range(9,21)
