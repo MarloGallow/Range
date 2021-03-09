@@ -19,8 +19,12 @@
  */
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
- console.log(result)
+ var result = [];
+ for (let i = 0; i <= range.length -1; i++) {
+  result.push(i)
+  }
        
     // 
 }
-range(9,21)
+
+
