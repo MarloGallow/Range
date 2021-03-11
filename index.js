@@ -20,11 +20,18 @@
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
  var result = [];
- for (let i = 0; i <= range.length -1; i++) {
+ for (let i = start; i <= end; i++) {
   result.push(i)
   }
        
     // 
 }
+range(1,10)
 
-
+function range(start, end) {
+  var result = []
+  for (let i = start; i >= end; i--) {
+    result.push(i)
+  }
+}
+range(0,-10)
